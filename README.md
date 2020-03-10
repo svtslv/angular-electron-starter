@@ -1,6 +1,6 @@
 # Angular Electron Starter
 
-Angular electron starter kid with minimum changes
+Angular electron starter kit with minimum changes
 
 ## How to use
 
