@@ -1,0 +1,43 @@
+{
+  "productName": "webdav-gui",
+  "extraMetadata": {
+    "main": "electron-main.js"
+  },
+  "directories": {
+    "output": "release/"
+  },
+  "files": [
+    "**/*",
+    "!**/*.ts",
+    "!*.code-workspace",
+    "!LICENSE.md",
+    "!package.json",
+    "!package-lock.json",
+    "!src/",
+    "!e2e/",
+    "!hooks/",
+    "!angular.json",
+    "!_config.yml",
+    "!karma.conf.js",
+    "!tsconfig.json",
+    "!tslint.json"
+  ],
+  "win": {
+    "icon": "src",
+    "target": [
+      "portable"
+    ]
+  },
+  "mac": {
+    "icon": "src",
+    "target": [
+      "dmg"
+    ]
+  },
+  "linux": {
+    "icon": "src",
+    "target": [
+      "AppImage"
+    ]
+  }
+}
