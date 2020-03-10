@@ -88,7 +88,7 @@ favicon.512x512.png
 
 ### Enjoy!
 
-UPD. Star it and Enjoy :)
+Star it and Enjoy :)
 
 ## License
 
