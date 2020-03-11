@@ -86,9 +86,7 @@ favicon.512x512.png
 /release
 ```
 
-### Enjoy!
-
-Star it and Enjoy :)
+### Star it and enjoy!
 
 ## License
 
